@@ -1,0 +1,9 @@
+{
+  "name": "WorldStand Live V4",
+  "short_name": "WorldStand V4",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#03111d",
+  "theme_color": "#03111d",
+  "description": "Immersive virtual travel camera with map destinations, live segmentation, parallax motion, gesture and voice control."
+}
